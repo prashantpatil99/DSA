@@ -9,6 +9,20 @@
             "name": "Test",
             "request": "launch",
             "mainClass": "Test",
+            "projectName": "DSA_f2dd400a"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "DSA_f2dd400a"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
             "projectName": "DSA_126f8e56"
         },
         {
